@@ -1,0 +1,3 @@
+[submodule "trunk/apertium-es-ca"]
+	path = trunk/apertium-es-ca
+	url = git@github.com:xavivars/apertium-es-ca.git
